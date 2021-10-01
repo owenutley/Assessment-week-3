@@ -1,0 +1,17 @@
+How does the internet work?
+
+From my understanding the internet is essentially just a universal set of links between computers, allowing the passing and sharing of information.
+The these links are what connects a computer to a router which will connect to other routers and data storages allowing a user to access information that isn't saved to their own hard drive.
+When you use a browser it goes through a process to access the information you are searching for.
+As an example, if you are to search for a website you need an IP adress. 
+
+
+
+What happens when you click on a link?
+
+When you click on a link, it directs you to a new page. 
+It does this by changing the subdirectory, which you can see after the domain of a page in a search bar.
+or if you aren't being linked to another place in the same domain, it can change the domain by finding the IP adress of the site that is linked.
+To get the IP adress it checks your cache, router and so on until potentially checking DNS servers for it.
+Overall it just links you to a set of programs that are running in a server that you access remotely.
+
